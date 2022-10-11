@@ -12,7 +12,7 @@ export default function Egg(){
         src="/egg.png"
         alt="the fresh egg"
         class="mx-auto" 
-        onClick={() => alert("🥚")}
+        onClick={() => alert("🥚egg🥚")}
       />
       <p class="mx-auto">
         click the egg
